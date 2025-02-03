@@ -88,9 +88,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [ 1Bisma Siyad]: [css stylrs]
-- [2]Feba Thankam Moni: [html ,javascript]
-- [3 Neithal Prince]: [MongoDb,node.js]
+- [ 1Bisma Siyad]: [html ,css styles]
+- [2]Feba Thankam Moni: [javascript]
+- 3 Neithal Prince : [MongoDb,node js]
 
 ---
 Made with ❤️ at TinkerHub

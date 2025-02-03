@@ -48,8 +48,10 @@ For Software:
 
 # Screenshots (Add at least 3)
 <img width="952" alt="BLOOD DONATION INTRO" src="https://github.com/user-attachments/assets/dac0f808-3a88-4cd6-82ba-d4ccd0ec8178" />
-<img width="952" alt="BLOOD DONATION INTRO" src="https://github.com/user-attachments/assets/688dcd1e-c297-4252-b776-c0ebb9b3688a" />
-<img width="952" alt="BLOOD DONATION INTRO" src="https://github.com/user-attachments/assets/4a37a636-6736-4708-bf3f-8eba655145ea" />
+<img width="710" alt="SC3" src="https://github.com/user-attachments/assets/0204e86d-3287-4ffb-8225-da52aea7e564" />
+<img width="738" alt="SC 2" src="https://github.com/user-attachments/assets/1652fcb0-d182-4a0e-9596-895b13c0f1c3" />
+
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
